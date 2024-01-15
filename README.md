@@ -1,4 +1,6 @@
-### Hi there 👋
+### Ei, você aí! 👋
+
+Meu nome é Victor Líbera e sou graduado em Ciências Econômicas pela Universidade Federal do Rio de Janeiro (UFRJ). Utilizo o GitHub como repositório para portfólio (sejam códigos, principalmente em `R`, ou textos). Você pode baixar meu _Curriculum Vitae_ clicando [aqui](www.google.com.br).  
 
 <!--
 **victorrssx/victorrssx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
