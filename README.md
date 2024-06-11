@@ -9,6 +9,16 @@ My name is Victor Libera and I have a degree in Economics from the Federal Unive
 
 ------------------
 
+<!--
+<a href="https://github.com/victorrssx">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=victorrssx&show_icons=true&include_all_commits=true&hide=contribs" alt="victorrssx' github stats"/>
+</a>
+
+<a href="https://github.com/victorrssx">
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=victorrssx&layout=compact" />
+</a>
+-->
+
 <a href="https://www.linkedin.com/in/victorpedroso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 **victorrssx/victorrssx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
